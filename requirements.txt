@@ -1,0 +1,13 @@
+git+https://github.com/vpcreatz/pyrofork-adv
+tgcrypto
+motor
+marshmallow
+umongo
+pymongo
+pytz
+cinemagoer
+shortzy
+aiohttp
+aiofiles
+telegraph
+speedtest-cli
